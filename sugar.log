@@ -1,0 +1,2 @@
+{"v":0,"name":"sugar","msg":"Lend me some sugar, I am your neighbor.","level":30,"hostname":"DESKTOP-28DFP40","pid":10632,"time":"2022-09-24T01:04:41.7206395Z","target":"sugar","line":116,"file":"src/main.rs"}
+{"v":0,"name":"sugar","msg":"Failed to read keypair file: ./wallet/creador.json, El sistema no puede encontrar la ruta especificada. (os error 3)","level":50,"hostname":"DESKTOP-28DFP40","pid":10632,"time":"2022-09-24T01:04:41.7220662Z","target":"sugar_cli::setup","line":53,"file":"src\\setup.rs"}
